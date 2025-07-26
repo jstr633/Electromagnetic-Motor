@@ -1,4 +1,4 @@
-<h1 align="center">Go Kart</h1>
+<h1 align="center">Electromagnetic Motor</h1>
 
 <p align="center">
   <strong>An Electromagnetic Motor built to learn crucial workshop practice skills</strong>
